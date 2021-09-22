@@ -12,7 +12,7 @@ Resources of libraries, documentation, and tutorials on how to develop things fo
 ### Make your own Backlight control
 ### Make your own Media control
 #### Libraries
-* MPRIS - https://specifications.freedesktop.org/mpris-spec/latest/
+* [MPRIS](https://specifications.freedesktop.org/mpris-spec/latest/) - [Documentation](https://mpris2.readthedocs.io/en/latest/)
 ### Make your own Polkit authentication agent
 ### Make your own Power management
 ### Make your own Screen capture

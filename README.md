@@ -1,5 +1,5 @@
 # make-your-own-linux-x
-Resources of libraries and Documentation on how to develop things for Linux.
+Resources of libraries, documentation, and tutorials on how to develop things for Linux.
 
 
 ## Tutorials
